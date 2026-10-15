@@ -1,2 +1,1 @@
-# Jktraders-.com
-A  tool that analyses the market and gives me an entry point. After analysing the market 
+# Jktraders-.com trading software for analying the market by using ai (artificial intelligence)
